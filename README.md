@@ -1,4 +1,4 @@
-# States-Usa-React-Component
+# States with a select form
 Import the component in Formik or html form
 
 **Formik**
