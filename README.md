@@ -1,6 +1,10 @@
 # States with a select form
 Import the component in Formik or html form
 
+```
+import StatesUsa from './StatesUsa'
+```
+
 **Formik**
 ``` 
 <Field
