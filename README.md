@@ -1,5 +1,6 @@
 # States-Usa-React-Component
 Import the component in Formik or html form
+
 **Formik**
 ``` 
 <Field
@@ -11,7 +12,7 @@ Import the component in Formik or html form
   <StatesUsa />
 </Field>
 ```
-**HTML
+**HTML**
 ```**
 <select>
   <StatesUsa />
