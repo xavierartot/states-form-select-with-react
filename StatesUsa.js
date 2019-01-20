@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 class StatesUsa extends Component {
   render() {
     return (
-      <React.Fragment className="StatesUsa">
+      <React.Fragment>
         <option value="AL">Alabama</option>
         <option value="AK">Alaska</option>
         <option value="AZ">Arizona</option>
